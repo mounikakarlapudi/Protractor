@@ -1,0 +1,30 @@
+{
+
+  "testsiteurl":"http://gmail.com",
+
+  "locators":{
+
+    "loginpage":{
+
+      "username":"//*[@id='Email']",
+      "next":"next"
+
+
+    }
+
+
+
+  },
+
+  "userdetails":{
+
+    "username1":"mounikak3317@gmail.com",
+    "password1":"Mouni@24",
+    "username2":"mounikak5581@gmail.com",
+    "password2":"Mouni@24"
+
+  }
+
+
+
+}
